@@ -7,7 +7,17 @@
  * 4. Copy the config object snippet, then add it here.
  */
 const config = {
-  /* TODO: ADD YOUR FIREBASE CONFIGURATION OBJECT HERE */
+  apiKey: "AIzaSyDBht2wHZ-YSbt_2QR5tr6uUX3MrgzKQzc",
+
+  authDomain: "friendlychat-db3c1.firebaseapp.com",
+
+  projectId: "friendlychat-db3c1",
+
+  storageBucket: "friendlychat-db3c1.appspot.com",
+
+  messagingSenderId: "100225209296",
+
+  appId: "1:100225209296:web:760edd4053dead1b89dfd5"
 };
 
 export function getFirebaseConfig() {
